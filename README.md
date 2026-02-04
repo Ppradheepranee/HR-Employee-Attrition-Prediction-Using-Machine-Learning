@@ -235,14 +235,7 @@ ________________________________________
 •	NumPy: https://numpy.org/
 ________________________________________
 
-Appendix: File Structure
-HR_Attrition_Prediction/
-├── Project.ipynb # Main Jupyter notebook
-├── Data/
-│ └── employee_data.xls # Employee performance dataset
-├── Models/
-│ └── lr_model.pkl # Trained logistic regression model
-└── README.md  # Documentation
+
 ________________________________________
 
 
